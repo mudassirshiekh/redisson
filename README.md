@@ -9,6 +9,7 @@ High-performance async and lock-free Java client for Redis and Valkey based on [
 
 
 ## Features
+# By Mudassir Alam
 
 * Thread-safe implementation
 * JDK 1.8+ up to the latest version compatible
